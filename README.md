@@ -1,4 +1,2 @@
 # BikeSalesAnalysis
-Integrated three flat files into SSMS, performed SQL joins & 
-transformations, and created an interactive Power BI dashboard for sales trends, profit analysis, and rider 
-segmentation. 
+Imported and integrated three flat files of bike sales data into SQL Server Management Studio (SSMS) for data transformation. Used SQL JOINs and UNION statements to consolidate data and created calculated columns for revenue, profit, and rider segmentation. Connected Power BI to SQL Server using a custom query, ensuring efficient data retrieval and real-time updates. Designed an interactive Power BI dashboard with cards, stacked bar charts, matrix tables, and column charts to visualize sales trends, average revenue and profit, daily sales trends, and rider segmentation.
